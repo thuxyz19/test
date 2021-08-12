@@ -41,7 +41,6 @@ from timm.scheduler.cosine_lr import CosineLRScheduler
 # os.environ["CUDA_VISIBLE_DEVICES"] = "0, 1"
 # print(torch.cuda.device_count())
 
-# add git
 
 bone = {'S1': 0.25173345605532327, 'S5': 0.24862031986316044, 'S6': 0.2579145073890686, 'S7': 0.24729864050944647, 'S8': 0.24417704145113628, 'S9': 0.24901529302199682, 'S11': 0.24831129199471966}
 
